@@ -2,7 +2,7 @@
     <content><![CDATA[
 &shy;
 ]]></content>
-    <tabTrigger>:sh</tabTrigger>
+    <tabTrigger>;sh</tabTrigger>
     <scope>text.html,text.html.markdown,text.html.markdown.multimarkdown</scope>
     <description>HTML entity: soft hyphen (shy)</description>
 </snippet>

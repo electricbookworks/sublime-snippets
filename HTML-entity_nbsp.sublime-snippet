@@ -2,7 +2,7 @@
     <content><![CDATA[
 &nbsp;
 ]]></content>
-    <tabTrigger>:nb</tabTrigger>
+    <tabTrigger>;nb</tabTrigger>
     <scope>text.html,text.html.markdown,text.html.markdown.multimarkdown</scope>
     <description>HTML entity: non-breaking space (nbsp)</description>
 </snippet>
