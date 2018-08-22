@@ -1,8 +1,9 @@
 <snippet>
     <content><![CDATA[
-&shy;
+{:.hyphens-manual}$0
+
 ]]></content>
-    <tabTrigger>:sh</tabTrigger>
+    <tabTrigger>hm</tabTrigger>
     <scope>text.html,text.html.markdown,text.html.markdown.multimarkdown</scope>
-    <description>HTML entity: soft hyphen (shy)</description>
+    <description>hyphens-manual</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[&nbsp;]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>&nb</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>text.html</scope>
+    <content><![CDATA[
+&nbsp;
+]]></content>
+    <tabTrigger>:nb</tabTrigger>
+    <scope>text.html,text.html.markdown,text.html.markdown.multimarkdown</scope>
     <description>HTML entity: non-breaking space (nbsp)</description>
 </snippet>
