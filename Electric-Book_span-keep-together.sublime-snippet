@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<span class="keep-together">$0</span>
+<span class="keep-together">$SELECTION$0</span>
 ]]></content>
     <tabTrigger>;kt</tabTrigger>
     <scope>text.html,text.html.markdown,text.html.markdown.multimarkdown</scope>
