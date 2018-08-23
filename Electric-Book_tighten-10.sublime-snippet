@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[{:.tighten-10}
+    <content><![CDATA[{:.tighten-${1:10}}$0
 
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
