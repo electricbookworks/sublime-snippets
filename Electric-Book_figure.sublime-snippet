@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+{% include figure
+   images="$1"
+   html="$2"
+   markdown="$3"
+   reference="$4"
+   link="$5"
+   caption="$SELECTION$6"
+   title="$7"
+   description="$8"
+   source="$9"
+   class="$10"
+%}$0]]></content>
+    <tabTrigger>fig</tabTrigger>
+    <scope>text.html,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <description>Electric Book: figure</description>
+</snippet>
