@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<span class="keep-together">$0</span>
+]]></content>
+    <tabTrigger>;kt</tabTrigger>
+    <scope>text.html,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <description>Span: keep-together</description>
+</snippet>
