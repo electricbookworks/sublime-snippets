@@ -1,9 +1,7 @@
 <snippet>
     <content><![CDATA[class="$1"$0
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>cl</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>text.html,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <scope>text.html,text.html.basic,text.html.markdown,text.html.markdown.multimarkdown</scope>
     <description>HTML attribute: class</description>
 </snippet>

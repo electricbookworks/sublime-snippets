@@ -2,9 +2,7 @@
     <content><![CDATA[{:.save-1}
 
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>s1</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>text.html,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <scope>text.html,text.html.basic,text.html.markdown,text.html.markdown.multimarkdown</scope>
     <description>Electric Book: save-1</description>
 </snippet>

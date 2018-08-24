@@ -4,6 +4,6 @@
 
 ]]></content>
     <tabTrigger>t5</tabTrigger>
-    <scope>text.html,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <scope>text.html,text.html.basic,text.html.markdown,text.html.markdown.multimarkdown</scope>
     <description>Electric Book: tighten-5</description>
 </snippet>
