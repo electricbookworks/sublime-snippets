@@ -1,0 +1,28 @@
+<snippet>
+    <content><![CDATA[
+<div class="slides">
+
+  {% include figure
+   images="$1"
+   reference="$2"
+   caption="$3"
+   source="$4"
+   class="summary"
+%}
+
+{% include figure
+   images="$5"
+   reference="$6"
+   title="$7"
+   description="$8"
+%}
+
+$0
+
+</div>
+
+]]></content>
+    <tabTrigger>slide</tabTrigger>
+    <scope>text.html,text.html.basic,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <description>Electric Book: slideline</description>
+</snippet>

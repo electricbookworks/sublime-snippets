@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+{% include youtube
+    id="$2"
+    image="youtube-$3.jpg"
+    link="$1"
+    description="$4"
+%}$0]]></content>
+	<tabTrigger>vid</tabTrigger>
+    <scope>text.html,text.html.basic,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <description>Electric Book: video</description>
+</snippet>

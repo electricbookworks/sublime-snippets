@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{:.mcq-options}
+]]></content>
+    <tabTrigger>mcqopt</tabTrigger>
+    <scope>text.html,text.html.basic,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <description>mcq options tag</description>
+</snippet>

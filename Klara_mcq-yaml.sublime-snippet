@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+---
+correct: $1
+---
+]]></content>
+    <tabTrigger>mcqyaml</tabTrigger>
+    <scope>text.html,text.html.basic,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <description>mcq YAML front matter</description>
+</snippet>

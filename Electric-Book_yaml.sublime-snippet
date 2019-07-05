@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+---
+title: "$1"
+image: "$2"
+image-credit: "$3"
+description: "$4"
+style: $5
+---]]></content>
+	<tabTrigger>yaml</tabTrigger>
+    <scope>text.html,text.html.basic,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <description>Electric Book: YAML front matter</description>
+</snippet>
