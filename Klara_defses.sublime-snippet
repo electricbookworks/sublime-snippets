@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% include definition term="$1" glossary=site.data.glossary-premiere-ses %}
+{:data-term="$2"}]]></content>
+	<tabTrigger>def</tabTrigger>
+    <scope>text.html,text.html.basic,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <description>Electric Book: definition pop up</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{:.mcq-feedback}
+]]></content>
+    <tabTrigger>mcqfeed</tabTrigger>
+    <scope>text.html,text.html.basic,text.html.markdown,text.html.markdown.multimarkdown</scope>
+    <description>mcq feedback tag</description>
+</snippet>
