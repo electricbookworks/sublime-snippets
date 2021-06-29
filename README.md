@@ -2,7 +2,7 @@
 
 These are [Sublime Text snippets](http://docs.sublimetext.info/en/latest/extensibility/snippets.html) we used day-to-day at [Electric Book Works](https://electricbookworks.com).
 
-We have moved to using VS Code mostly, so this repo is not maintained. We also [share snippets for VS Code](electricbookworks/vs-code-snippets).
+We have moved to using VS Code mostly, so this repo is not maintained. We also [share snippets for VS Code](https://github.com/electricbookworks/vs-code-snippets).
 
 ## Usage
 
